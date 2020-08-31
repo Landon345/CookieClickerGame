@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CookieClickerGame/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/CookieClickerGame/static/js/main.7a260698.chunk.js",
+    "main.js.map": "/CookieClickerGame/static/js/main.7a260698.chunk.js.map",
+    "runtime-main.js": "/CookieClickerGame/static/js/runtime-main.02d3129b.js",
+    "runtime-main.js.map": "/CookieClickerGame/static/js/runtime-main.02d3129b.js.map",
+    "static/js/2.062e3afc.chunk.js": "/CookieClickerGame/static/js/2.062e3afc.chunk.js",
+    "static/js/2.062e3afc.chunk.js.map": "/CookieClickerGame/static/js/2.062e3afc.chunk.js.map",
+    "index.html": "/CookieClickerGame/index.html",
+    "precache-manifest.0ab2ea40f36d54c061e53e8407a61646.js": "/CookieClickerGame/precache-manifest.0ab2ea40f36d54c061e53e8407a61646.js",
+    "service-worker.js": "/CookieClickerGame/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/CookieClickerGame/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.062e3afc.chunk.js.LICENSE": "/CookieClickerGame/static/js/2.062e3afc.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02d3129b.js",
+    "static/js/2.062e3afc.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.7a260698.chunk.js"
+  ]
+}
